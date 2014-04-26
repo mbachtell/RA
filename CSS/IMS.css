@@ -1,0 +1,6 @@
+a {text-decoration:none}
+a:hover {text-decoration:underline}
+a:visited{color:black;}
+.header{color:black;}
+#slickbox2{width:50%;}
+#googleStack{float:right;width:25%;border-style:groove;}
